@@ -1,9 +1,8 @@
-# AES
 There are 2 functions defined for AES-128
 AES_Encryption() used for encrypting the plaintext
 AES_Decryption() used for decrypting the encryptedData
 
-# Running the Code:
+Running the Code:
 
 To run the code, store the plaintext in hex format in the plaintext.pt file
 
